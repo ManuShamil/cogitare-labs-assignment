@@ -1,0 +1,61 @@
+{
+    "coreTraits": {
+        "name": "Evelyn Sanders",
+        "age": 34,
+        "gender": "Female",
+        "species": "Human",
+        "occupation": "Architect"
+    },
+    "physicalDescription": {
+        "bodyType": "Athletic",
+        "skinTone": "Olive",
+        "hair": {
+            "color": "Dark Brown",
+            "texture": "Wavy",
+            "length": "Shoulder-length",
+            "style": "Loose waves with side part",
+            "highlightColor": "Caramel",
+            "shine": "High"
+        },
+        "eyes": {
+            "color": "Hazel",
+            "shape": "Almond",
+            "distinctiveFeatures": "Thin golden-brown flecks"
+        },
+        "clothing": {
+            "outfit": "Tailored blazer with fitted trousers",
+            "colorScheme": "Navy and White"
+        },
+        "accessories": {
+            "headgear": "Stylish wide-brimmed hat",
+            "jewelry": [
+                "Silver wristwatch",
+                "Diamond stud earrings"
+            ],
+            "other": [
+                "Black leather handbag"
+            ]
+        }
+    },
+    "personalityAndExpressions": {
+        "personality": [
+            "Creative",
+            "Meticulous",
+            "Determined"
+        ],
+        "defaultEmotion": "Confident",
+        "facialExpression": "Subtle smile with focused eyes"
+    },
+    "distinctFeaturesOrStyles": {
+        "uniqueFeatures": "Small scar above the left eyebrow",
+        "colorScheme": "Neutral with pops of blue",
+        "pose": "Standing with arms crossed and a slight forward lean"
+    },
+    "environmentalContext": {
+        "setting": "Urban cityscape with skyscrapers in the background",
+        "lighting": "Daylight with natural shadows",
+        "weather": "Clear",
+        "timeOfDay": "Afternoon"
+    },
+    "rawJson": "{\n    \"coreTraits\": {\n        \"name\": \"Evelyn Sanders\",\n        \"age\": 34,\n        \"gender\": \"Female\",\n        \"species\": \"Human\",\n        \"occupation\": \"Architect\"\n    },\n    \"physicalDescription\": {\n        \"bodyType\": \"Athletic\",\n        \"skinTone\": \"Olive\",\n        \"hair\": {\n            \"color\": \"Dark Brown\",\n            \"texture\": \"Wavy\",\n            \"length\": \"Shoulder-length\",\n            \"style\": \"Loose waves with side part\",\n            \"highlightColor\": \"Caramel\",\n            \"shine\": \"High\"\n        },\n        \"eyes\": {\n            \"color\": \"Hazel\",\n            \"shape\": \"Almond\",\n            \"distinctiveFeatures\": \"Thin golden-brown flecks\"\n        },\n        \"clothing\": {\n            \"outfit\": \"Tailored blazer with fitted trousers\",\n            \"colorScheme\": \"Navy and White\"\n        },\n        \"accessories\": {\n            \"headgear\": \"Stylish wide-brimmed hat\",\n            \"jewelry\": [\"Silver wristwatch\", \"Diamond stud earrings\"],\n            \"other\": [\"Black leather handbag\"]\n        }\n    },\n    \"personalityAndExpressions\": {\n        \"personality\": [\"Creative\", \"Meticulous\", \"Determined\"],\n        \"defaultEmotion\": \"Confident\",\n        \"facialExpression\": \"Subtle smile with focused eyes\"\n    },\n    \"distinctFeaturesOrStyles\": {\n        \"uniqueFeatures\": \"Small scar above the left eyebrow\",\n        \"colorScheme\": \"Neutral with pops of blue\",\n        \"pose\": \"Standing with arms crossed and a slight forward lean\"\n    },\n    \"environmentalContext\": {\n        \"setting\": \"Urban cityscape with skyscrapers in the background\",\n        \"lighting\": \"Daylight with natural shadows\",\n        \"weather\": \"Clear\",\n        \"timeOfDay\": \"Afternoon\"\n    }\n}"
+}

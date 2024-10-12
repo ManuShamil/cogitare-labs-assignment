@@ -1,0 +1,61 @@
+{
+    "coreTraits": {
+        "name": "Harper Wells",
+        "age": 29,
+        "gender": "Non-binary",
+        "species": "Human",
+        "occupation": "Graphic Designer"
+    },
+    "physicalDescription": {
+        "bodyType": "Athletic",
+        "skinTone": "Light olive",
+        "hair": {
+            "color": "Dark brown",
+            "texture": "Wavy",
+            "length": "Shoulder-length",
+            "style": "Tousled with side part",
+            "highlightColor": "Caramel",
+            "shine": "Glossy"
+        },
+        "eyes": {
+            "color": "Hazel",
+            "shape": "Almond",
+            "distinctiveFeatures": "Small beauty mark under the right eye"
+        },
+        "clothing": {
+            "outfit": "Casual chic - fitted jeans with a loose bohemian blouse",
+            "colorScheme": "Earth tones with splashes of teal"
+        },
+        "accessories": {
+            "headgear": "Wide-brimmed felt hat",
+            "jewelry": [
+                "Layered necklaces",
+                "Silver hoop earrings"
+            ],
+            "other": [
+                "Minimalist leather watch"
+            ]
+        }
+    },
+    "personalityAndExpressions": {
+        "personality": [
+            "Creative",
+            "Empathetic",
+            "Intuitive",
+            "Slightly introverted"
+        ],
+        "defaultEmotion": "Calm",
+        "facialExpression": "Soft smile with thoughtful eyes"
+    },
+    "distinctFeaturesOrStyles": {
+        "uniqueFeatures": "Tattoo of a geometric pattern on left forearm",
+        "colorScheme": "Muted earthy palette",
+        "pose": "Relaxed stance with one hand in pocket"
+    },
+    "environmentalContext": {
+        "setting": "Cozy coffee shop",
+        "lighting": "Warm ambient",
+        "weather": "Overcast",
+        "timeOfDay": "Late afternoon"
+    }
+}

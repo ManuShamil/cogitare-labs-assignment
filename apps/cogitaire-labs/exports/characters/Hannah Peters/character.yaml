@@ -1,0 +1,73 @@
+coreTraits:
+    name: Hannah Peters
+    age: 27
+    gender: Female
+    species: Human
+    occupation: Wildlife Photographer
+    backstory: Hannah grew up in a small town surrounded by nature. Her passion for
+        capturing the beauty and intricacies of wildlife led her to travel the
+        world, documenting endangered species in their natural habitats.
+    motivation: To raise awareness about environmental conservation through her
+        photography.
+physicalDescription:
+    bodyType: Athletic
+    skinTone: Olive
+    skinDetails:
+        freckles: Light dusting across nose and cheeks
+    hair:
+        color: Dark brown
+        texture: Slightly wavy
+        length: Shoulder-length
+        style: Often tied in a messy bun
+        highlightColor: Natural sun-kissed streaks
+        volume: Thick
+    eyes:
+        color: Green
+        shape: Almond
+        distinctiveFeatures: A small scar above her right eyebrow
+        eyeSize: Large
+    faceShape: Oval
+    posture: Confident and poised
+    clothing:
+        outfit: Cargo pants with a fitted khaki shirt
+        colorScheme: Earth tones
+        material: Cotton and durable canvas
+        styleDetails: Utility pockets, reinforced seams
+        condition: Well-worn but neatly maintained
+    accessories:
+        headgear: Wide-brimmed hat for sun protection
+        jewelry: Simple silver stud earrings
+        other: A weathered leather camera strap
+        significance: Camera strap is a gift from her late grandfather who inspired her
+            love for photography
+personalityAndExpressions:
+    personality:
+        - Adventurous
+        - Observant
+        - Passionate
+        - Empathetic
+    defaultEmotion: Calm determination
+    facialExpression: Slight, thoughtful smile
+    bodyLanguage: Relaxed, with an open stance
+    speechStyle: Warm and engaging, with a slight drawl
+distinctFeaturesOrStyles:
+    uniqueFeatures: Visible camera wear and tear as an extension of her personality
+    colorScheme: Earthy greens and browns
+    pose: Crouched low, ready to capture a perfect shot
+    movementStyle: Graceful and stealthy, akin to a predator in the wild
+environmentalContext:
+    setting: Dense tropical rainforest
+    lighting: Dappled sunlight filtering through the canopy
+    weather: Humid, with a light drizzle
+    timeOfDay: Early morning
+    backgroundElements: Layers of lush foliage, distant birdcalls
+    mood: A sense of vibrant life and quiet anticipation
+imageStyle:
+    styleDescription: Realistic with fine details
+    colorPalette:
+        - Deep greens
+        - russet browns
+        - muted yellows
+    lightingEffect: Soft, natural light with an emphasis on contrasts
+    textureLevel: Highly detailed textures to capture the essence of the rainforest
+    artisticInfluence: Documentary photography

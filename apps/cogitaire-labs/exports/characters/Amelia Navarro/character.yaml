@@ -1,0 +1,84 @@
+coreTraits:
+    name: Amelia Navarro
+    age: 27
+    gender: Female
+    species: Human
+    occupation: Graphic Designer
+    backstory: Amelia grew up in a small coastal town, surrounded by vibrant colors
+        and artistic inspiration. Her mother ran a local art gallery, which
+        sparked Amelia's creativity from a young age. She moved to the city to
+        pursue her passion for design and work with dynamic brands.
+    motivation: Amelia is driven by the quest for innovation and personal expression
+        through her designs. She seeks to create art that inspires others and
+        leaves a lasting impact.
+physicalDescription:
+    bodyType: Slim and athletic
+    skinTone: Olive
+    skinDetails:
+        freckles: Light freckles across her nose and cheeks
+        scars: A small scar on her right cheek from a childhood fall
+    hair:
+        color: Chestnut brown
+        texture: Wavy
+        length: Shoulder-length
+        style: Loose and slightly tousled
+        highlightColor: Subtle honey-colored highlights
+        volume: Thick
+    eyes:
+        color: Hazel
+        shape: Almond-shaped
+        distinctiveFeatures: Long, dark eyelashes
+        eyeSize: Medium
+    faceShape: Heart-shaped
+    facialHair: None
+    posture: Relaxed but confident
+    clothing:
+        outfit: Casual chic — high-waisted jeans and a flowy blouse
+        colorScheme: Earth tones with pops of color
+        material: Cotton and denim
+        styleDetails: Embroidered floral patterns on the blouse
+        condition: New, well-maintained
+    accessories:
+        headgear: A wide-brimmed straw hat
+        jewelry:
+            - Small gold hoop earrings
+            - Layered pendant necklace
+        other:
+            - Leather satchel bag
+        significance:
+            - The necklace was a gift from her grandmother, symbolizing
+              creativity and independence
+personalityAndExpressions:
+    personality:
+        - Creative
+        - Outgoing
+        - Passionate
+        - Detail-oriented
+    defaultEmotion: Content and thoughtful
+    facialExpression: Soft smile with an attentive gaze
+    bodyLanguage: Open gestures, often uses hands when speaking
+    speechStyle: Warm and inviting, with a hint of excitement when talking about design
+distinctFeaturesOrStyles:
+    uniqueFeatures: A small tattoo of a paintbrush on her inner wrist
+    colorScheme: Earthy tones accentuated with warm colors
+    pose: Standing with one hand on her hip, the other holding a sketchbook
+    movementStyle: Graceful with purposeful strides
+environmentalContext:
+    setting: A bright, modern studio filled with plants and art supplies
+    lighting: Natural light streaming in through large windows
+    weather: Sunny day with a gentle breeze
+    timeOfDay: Mid-morning
+    backgroundElements:
+        - Easels
+        - Paint palettes
+        - Digital drawing tablet
+    mood: Inviting and inspiring
+imageStyle:
+    styleDescription: Realistic with a touch of whimsy
+    colorPalette:
+        - Warm greens
+        - Rich browns
+        - Subtle golds
+    lightingEffect: Soft shadows with highlights on the hair and face
+    textureLevel: Fine details, especially in fabric and skin
+    artisticInfluence: Contemporary with slight impressionist influences

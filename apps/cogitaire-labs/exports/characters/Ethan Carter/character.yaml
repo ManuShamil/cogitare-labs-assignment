@@ -1,0 +1,74 @@
+coreTraits:
+    name: Ethan Carter
+    age: 32
+    gender: Male
+    species: Human
+    occupation: Wildlife Photographer
+    backstory: Ethan grew up in a small town surrounded by lush forests. He
+        developed a love for nature and photography at an early age, inspired by
+        his father's environmental activism. He now travels the world capturing
+        breathtaking images of wildlife.
+    motivation: Driven by a desire to document and preserve the beauty of nature,
+        Ethan aims to raise awareness about environmental issues through his
+        photography.
+physicalDescription:
+    bodyType: Lean and athletic
+    skinTone: Lightly tanned
+    skinDetails:
+        freckles: Sparse, across the bridge of the nose and cheeks
+        scars: A faint scar on his right cheek, from a childhood biking accident
+    hair:
+        color: Chestnut brown
+        texture: Wavy
+        length: Medium
+        style: Messy but intentional, often tucked behind the ears
+    eyes:
+        color: Hazel
+        shape: Almond-shaped
+        distinctiveFeatures: Long eyelashes
+        eyeSize: Medium
+    faceShape: Oval
+    facialHair: Light stubble
+    posture: Relaxed and confident
+    clothing:
+        outfit: Cargo pants and a moisture-wicking safari shirt
+        colorScheme: Earth tones like olive green and khaki
+        material: Durable cotton and lightweight polyester
+        styleDetails: Utility pockets and roll-up sleeves
+        condition: Well-worn from travel and outdoor use
+    accessories:
+        headgear: Wide-brimmed hat
+        jewelry: Simple leather bracelet
+        other: High-quality camera with various lenses
+        significance: The camera is a gift from his late father, symbolizing their
+            shared passion for nature.
+personalityAndExpressions:
+    personality:
+        - Adventurous
+        - Observant
+        - Compassionate
+        - Patient
+    defaultEmotion: Curious
+    facialExpression: Focused, with a slight smile
+    bodyLanguage: Often leaning forward with interest, hands frequently adjusting
+        the camera
+    speechStyle: Soft-spoken with a hint of enthusiasm when discussing nature
+distinctFeaturesOrStyles:
+    uniqueFeatures: A friendly, approachable demeanor enhanced by a warm, welcoming smile
+    colorScheme: Earthy tones and natural colors
+    pose: Often seen crouching or standing with one knee bent, ready to capture a
+        photograph
+    movementStyle: Deliberate and careful, moving smoothly through natural environments
+environmentalContext:
+    setting: A dense tropical jungle teeming with wildlife
+    lighting: Soft natural daylight filtering through the canopy
+    weather: Mild, with a gentle breeze
+    timeOfDay: Early morning
+    backgroundElements: Lush vegetation, distant wildlife, and the sound of a nearby river
+    mood: Serene and contemplative, with a sense of discovery
+imageStyle:
+    styleDescription: Realistic
+    colorPalette: Greens, browns, and soft blues
+    lightingEffect: Natural with gentle shadows
+    textureLevel: Fine details capturing the intricacies of the jungle and wildlife
+    artisticInfluence: Nature photography, with a focus on realism and detail

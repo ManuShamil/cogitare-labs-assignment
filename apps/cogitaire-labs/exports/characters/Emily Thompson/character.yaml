@@ -1,0 +1,76 @@
+coreTraits:
+    name: Emily Thompson
+    age: 29
+    gender: Female
+    species: Human
+    occupation: Architectural Designer
+    backstory: Grew up in a small town, inspired by her father's work in
+        construction. Passionate about modern, sustainable design.
+    motivation: To revolutionize urban living with eco-friendly building designs.
+physicalDescription:
+    bodyType: Athletic
+    skinTone: Light olive
+    skinDetails:
+        freckles: Lightly scattered across nose and cheeks
+        scars: Small scar on her left eyebrow
+    hair:
+        color: Chestnut brown
+        texture: Wavy
+        length: Shoulder length
+        style: Loose waves with a side part
+        highlightColor: Golden blonde
+        shine: Moderate shine
+        volume: Thick
+    eyes:
+        color: Hazel
+        shape: Almond
+        distinctiveFeatures: Long eyelashes
+        eyeSize: Average
+    faceShape: Oval
+    facialHair: None
+    posture: Confident and upright
+    clothing:
+        outfit: Tailored blazer over a fitted blouse and slim trousers
+        colorScheme: Earth tones with accent of deep green
+        material: Wool blend for the blazer, silk for the blouse
+        styleDetails: Subtle geometric pattern on the blouse
+        condition: Well-maintained and stylish
+    accessories:
+        jewelry:
+            - Simple silver hoop earrings
+            - Minimalistic silver wristwatch
+        other:
+            - Leather-bound sketchbook
+        significance: Sketchbook is her personal idea journal for new designs
+personalityAndExpressions:
+    personality:
+        - Creative
+        - Determined
+        - Detail-oriented
+        - Empathetic
+    defaultEmotion: Calm and focused
+    facialExpression: Thoughtful with a slight smile
+    bodyLanguage: Gestures often with hands when explaining concepts
+    speechStyle: Articulate and precise with a hint of enthusiasm
+distinctFeaturesOrStyles:
+    uniqueFeatures: Has a distinctive birthmark behind her right ear
+    colorScheme: Earthy tones with vibrant green accents
+    pose: Standing with one hand in pocket, the other holding a sketchbook
+    movementStyle: Graceful and purposeful
+environmentalContext:
+    setting: Modern office space with a view of the city skyline
+    lighting: Natural daylight filtering through large windows
+    weather: Clear and sunny
+    timeOfDay: Late afternoon
+    backgroundElements: Contemporary furniture, architectural models on shelves
+    mood: Inspirational and forward-thinking
+imageStyle:
+    styleDescription: Realistic
+    colorPalette:
+        - Olive green
+        - Chestnut brown
+        - Cream
+        - Deep green
+    lightingEffect: Soft shadows with highlights accentuating features
+    textureLevel: Fine details
+    artisticInfluence: Contemporary realism

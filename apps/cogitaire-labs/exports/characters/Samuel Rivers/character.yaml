@@ -1,0 +1,82 @@
+coreTraits:
+    name: Samuel Rivers
+    age: 34
+    gender: Male
+    species: Human
+    occupation: Architect
+    backstory: Samuel was born and raised in Portland, Oregon, where he developed a
+        fascination with buildings and structures at an early age. After
+        studying architecture in college, he traveled extensively across Europe,
+        drawing inspiration from historic landmarks and modern marvels alike.
+    motivation: To design sustainable and innovative structures that blend with
+        their natural environment.
+physicalDescription:
+    bodyType: Lean
+    skinTone: Olive
+    skinDetails:
+        freckles: Scattered lightly across his nose and cheeks
+        texture: Smooth
+    hair:
+        color: Dark Brown
+        texture: Wavy
+        length: Short
+        style: Neatly combed back
+        volume: Moderately thick
+    eyes:
+        color: Hazel
+        shape: Almond-shaped
+        distinctiveFeatures: A slight squint when concentrating
+        eyeSize: Medium
+    faceShape: Oval
+    facialHair: Trimmed stubble
+    posture: Upright and confident
+    clothing:
+        outfit: Smart casual - a slim fit blazer over a crisp white shirt and tailored
+            jeans
+        colorScheme: Navy blue and white
+        material: Cotton and denim
+        styleDetails: Subtle herringbone pattern on the blazer
+        condition: Well-maintained
+    accessories:
+        jewelry:
+            - Silver wristwatch
+            - Wedding band
+        significance:
+            - The wristwatch was a gift from his grandfather, symbolizing the
+              passing of time and legacy.
+personalityAndExpressions:
+    personality:
+        - Analytical
+        - Creative
+        - Detail-oriented
+        - Introverted
+        - Calm
+    defaultEmotion: Thoughtful
+    facialExpression: Slightly furrowed brow and a half-smile
+    bodyLanguage: Often stands with arms crossed when in deep thought
+    speechStyle: Measured and articulate with a soft, reassuring tone
+distinctFeaturesOrStyles:
+    uniqueFeatures: Small scar above his right eyebrow from a childhood accident
+    colorScheme: Earth tones with navy and white accents
+    pose: Leaning against a desk with arms crossed, looking at architectural plans
+    movementStyle: Deliberate and precise
+environmentalContext:
+    setting: Modern urban office with large windows and city views
+    lighting: Natural daylight streaming through the windows
+    weather: Clear sunny day
+    timeOfDay: Mid-morning
+    backgroundElements:
+        - Architectural models
+        - Shelves filled with books
+        - Sketches pinned on a board
+    mood: Focused and inspired
+imageStyle:
+    styleDescription: Realistic
+    colorPalette:
+        - Navy
+        - White
+        - Olive green
+        - Silver
+    lightingEffect: Soft shadows
+    textureLevel: Fine details
+    artisticInfluence: Modern realism

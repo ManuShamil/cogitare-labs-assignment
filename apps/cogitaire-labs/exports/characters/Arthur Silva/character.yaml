@@ -1,0 +1,83 @@
+coreTraits:
+    name: Arthur Silva
+    age: 34
+    gender: Male
+    species: Human
+    occupation: Geologist
+    backstory: Arthur grew up in a small coastal village where he developed a
+        fascination for rocks and the earth. His curiosity led him to pursue a
+        degree in geology, and now he travels the world studying geological
+        formations.
+    motivation: To discover and preserve Earth's hidden geological wonders.
+physicalDescription:
+    bodyType: Athletic build with broad shoulders
+    skinTone: Olive
+    skinDetails:
+        scars: A small scar on his left cheek from a rock climbing accident.
+    hair:
+        color: Deep brown
+        texture: Wavy
+        length: Medium
+        style: Casual tousle
+        volume: Thick
+    eyes:
+        color: Hazel
+        shape: Almond-shaped
+        distinctiveFeatures: Specks of green around the iris.
+        eyeSize: Medium
+    faceShape: Square
+    facialHair: Short, neatly trimmed beard
+    posture: Confident and upright
+    clothing:
+        outfit: Comfortable outdoor gear, including a weathered brown jacket, khaki
+            cargo pants, and rugged hiking boots
+        colorScheme: Earth tones
+        material: Durable cotton and leather
+        condition: Well-worn but maintained
+    accessories:
+        headgear: A wide-brimmed hat for sun protection
+        jewelry:
+            - A silver wristwatch
+            - a braided leather bracelet
+        other:
+            - A geologist's pick
+            - a sturdy field backpack
+        significance:
+            - The bracelet is a gift from his late grandfather.
+personalityAndExpressions:
+    personality:
+        - Curious
+        - Adventurous
+        - Analytical
+        - Calm under pressure
+        - Humble
+    defaultEmotion: Thoughtful
+    facialExpression: A gentle smile with a focused gaze
+    bodyLanguage: Uses hands expressively when explaining ideas
+    speechStyle: Speaks in a deliberate and articulate manner, often with a hint of
+        excitement when discussing geology
+distinctFeaturesOrStyles:
+    uniqueFeatures: Slight tan indicating frequent time spent outdoors
+    colorScheme: Earthy hues with splashes of green
+    pose: Standing with one hand in pocket, the other holding a rock sample
+    movementStyle: Purposeful and steady, like a person used to traversing rough terrain
+environmentalContext:
+    setting: Rocky cliffside overlooking the ocean
+    lighting: Bright and natural sunlight
+    weather: Breezy with scattered clouds
+    timeOfDay: Late afternoon
+    backgroundElements:
+        - Wild grasses
+        - a distant lighthouse
+        - towering sea stacks
+    mood: Serene and introspective
+imageStyle:
+    styleDescription: Realistic
+    colorPalette:
+        - Rich browns
+        - deep greens
+        - ocean blues
+        - dusty whites
+    lightingEffect: High contrast with pronounced shadows
+    textureLevel: Fine details capturing the ruggedness of the environment
+    artisticInfluence: Reminiscent of naturalistic landscape paintings

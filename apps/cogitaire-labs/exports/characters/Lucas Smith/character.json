@@ -1,0 +1,61 @@
+{
+    "coreTraits": {
+        "name": "Lucas Smith",
+        "age": 29,
+        "gender": "Male",
+        "species": "Human",
+        "occupation": "Graphic Designer"
+    },
+    "physicalDescription": {
+        "bodyType": "Athletic",
+        "skinTone": "Olive",
+        "hair": {
+            "color": "Dark Brown",
+            "texture": "Wavy",
+            "length": "Medium",
+            "style": "Undercut with longer top",
+            "highlightColor": "Light brown",
+            "shine": "Subtle natural shine"
+        },
+        "eyes": {
+            "color": "Hazel",
+            "shape": "Almond",
+            "distinctiveFeatures": "Small scar above his right eyebrow"
+        },
+        "clothing": {
+            "outfit": "Casual smart",
+            "colorScheme": "Navy blue, white, and gray"
+        },
+        "accessories": {
+            "jewelry": [
+                "Silver watch",
+                "Wedding band"
+            ],
+            "other": [
+                "Black leather messenger bag"
+            ]
+        }
+    },
+    "personalityAndExpressions": {
+        "personality": [
+            "Creative",
+            "Detail-oriented",
+            "Introverted",
+            "Empathetic",
+            "Loyal"
+        ],
+        "defaultEmotion": "Calm",
+        "facialExpression": "Slightly amused smile"
+    },
+    "distinctFeaturesOrStyles": {
+        "uniqueFeatures": "Tattoo of a geometric pattern on his left forearm",
+        "colorScheme": "Earth tones and neutrals",
+        "pose": "Standing with weight shifted on one leg, holding a sketchpad"
+    },
+    "environmentalContext": {
+        "setting": "Modern open-plan office",
+        "lighting": "Bright, natural light coming from large windows",
+        "weather": "Sunny",
+        "timeOfDay": "Morning"
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "coreTraits": {
+        "name": "Monica Bruce",
+        "age": 32,
+        "gender": "Female",
+        "species": "Human",
+        "occupation": "Architect"
+    },
+    "physicalDescription": {
+        "bodyType": "Athletic",
+        "skinTone": "Olive",
+        "hair": {
+            "color": "Dark brown",
+            "texture": "Wavy",
+            "length": "Shoulder length",
+            "style": "Side-parted",
+            "highlightColor": "Subtle caramel highlights",
+            "shine": "Glossy"
+        },
+        "eyes": {
+            "color": "Hazel",
+            "shape": "Almond-shaped",
+            "distinctiveFeatures": "Freckles across her nose"
+        },
+        "clothing": {
+            "outfit": "Tailored blazer with matching trousers and a white blouse",
+            "colorScheme": "Navy blue and white"
+        },
+        "accessories": {
+            "jewelry": [
+                "Silver hoop earrings",
+                "Thin bangle bracelet"
+            ],
+            "other": [
+                "Black leather handbag"
+            ]
+        }
+    },
+    "personalityAndExpressions": {
+        "personality": [
+            "Charismatic",
+            "Detail-oriented",
+            "Creative",
+            "Practical"
+        ],
+        "defaultEmotion": "Confident",
+        "facialExpression": "Slight smile with raised eyebrows"
+    },
+    "distinctFeaturesOrStyles": {
+        "uniqueFeatures": "Tattoo of a compass on her wrist",
+        "colorScheme": "Earth tones with occasional bright accents",
+        "pose": "Standing with one hand in her pocket, showcasing a poised demeanor"
+    },
+    "environmentalContext": {
+        "setting": "Cityscape office",
+        "lighting": "Bright natural light from large windows",
+        "weather": "Clear sky",
+        "timeOfDay": "Morning"
+    }
+}

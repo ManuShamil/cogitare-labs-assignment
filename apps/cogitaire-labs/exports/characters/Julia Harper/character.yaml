@@ -1,0 +1,79 @@
+coreTraits:
+    name: Julia Harper
+    age: 28
+    gender: Female
+    species: Human
+    occupation: Wildlife Photographer
+    backstory: Julia grew up in a small rural town surrounded by nature, which
+        fostered her love for the outdoors and photography. She pursued a degree
+        in environmental science and now travels the world capturing the wonders
+        of wildlife through her lens.
+    motivation: Julia is driven by her passion to showcase the beauty and fragility
+        of wildlife to inspire conservation efforts.
+physicalDescription:
+    bodyType: Athletic
+    skinTone: Light olive
+    skinDetails:
+        freckles: Light dusting across cheeks and nose
+        scars: A small scar on her left forearm from an adventure gone awry
+        texture: Smooth
+    hair:
+        color: Chestnut brown
+        texture: Wavy
+        length: Shoulder-length
+        style: Often tied back in a practical ponytail with loose strands framing her
+            face
+        shine: Soft lustrous shine
+        volume: Medium
+    eyes:
+        color: Hazel
+        shape: Almond-shaped
+        distinctiveFeatures: Small beauty mark under the right eye
+        eyeSize: Medium
+    faceShape: Heart-shaped
+    facialHair: N/A
+    posture: Confident and relaxed, with an easygoing stance
+    clothing:
+        outfit: Practical field attire including khaki cargo pants, a moisture-wicking
+            shirt, and a utility vest
+        colorScheme: Earthy tones; greens, browns, and beige
+        material: Durable cotton and water-resistant synthetic fabric
+        styleDetails: Functional design with plenty of pockets for equipment
+        condition: Worn but well-maintained
+    accessories:
+        headgear: Wide-brimmed sun hat
+        jewelry: Simple silver hoop earrings
+        other: Sturdy hiking boots, a camera strap around her neck, and binoculars
+        significance: Her camera is a treasured possession that has been with her on
+            countless adventures
+personalityAndExpressions:
+    personality:
+        - Curious
+        - Adventurous
+        - Compassionate
+        - Observant
+    defaultEmotion: Content and focused
+    facialExpression: A soft, thoughtful smile with eyes full of wonder
+    bodyLanguage: Tendency to gesture animatedly when excited, maintains strong eye contact
+    speechStyle: Speaks with enthusiasm and clarity, often with an undertone of
+        reverence for her subjects
+distinctFeaturesOrStyles:
+    uniqueFeatures: A patch on her vest with the emblem of the wildlife organization
+        she supports
+    colorScheme: Earthy and natural
+    pose: Positioned as if she's scanning the horizon with her camera raised and
+        ready
+    movementStyle: Graceful and purposeful, with a natural ease in her movements
+environmentalContext:
+    setting: A vibrant savannah during a wildlife expedition
+    lighting: Golden hour lighting, casting a warm glow
+    weather: Clear skies with a gentle breeze
+    timeOfDay: Late afternoon
+    backgroundElements: A lone acacia tree and distant mountains, with a herd of antelope grazing
+    mood: Serene and awe-inspiring, capturing the majesty of nature
+imageStyle:
+    styleDescription: Realistic with a painterly touch
+    colorPalette: Warm earth tones and vivid greens
+    lightingEffect: Soft, diffused natural lighting enhancing textures
+    textureLevel: Fine details with a focus on natural elements
+    artisticInfluence: Inspired by wildlife documentary aesthetics

@@ -1,0 +1,75 @@
+coreTraits:
+    name: Maria Clarke
+    age: 32
+    gender: Female
+    species: Human
+    occupation: Wildlife Photographer
+    backstory: Maria grew up immersed in nature in a small rural town. Her passion
+        for photography began when she received her first camera at age 10, and
+        she dedicated her career to capturing the essence of the wild and
+        promoting conservation awareness.
+    motivation: Driven by her desire to educate others about the importance of
+        preserving wildlife and natural habitats through her lens.
+physicalDescription:
+    bodyType: Athletic
+    skinTone: Olive
+    skinDetails:
+        freckles: Lightly sprinkled across her nose and cheeks
+        scars: Small scar on her right knee from a hiking accident
+    hair:
+        color: Dark brown
+        texture: Wavy
+        length: Long
+        style: Often tied back in a messy bun
+        volume: Thick
+    eyes:
+        color: Green
+        shape: Almond-shaped
+        distinctiveFeatures: Long eyelashes
+        eyeSize: Medium
+    faceShape: Oval
+    posture: Confident and upright
+    clothing:
+        outfit: Practical outdoor wear consisting of cargo pants and a lightweight
+            jacket
+        colorScheme: Earth tones with hints of green
+        material: Durable fabric suitable for outdoor activities
+        styleDetails: Multiple pockets for carrying small equipment
+        condition: Slightly worn but well-maintained
+    accessories:
+        headgear: Wide-brimmed hat
+        jewelry: Simple silver stud earrings
+        other: A DSLR camera always at her side
+        significance: The camera was a gift from her late father, inspiring her career
+personalityAndExpressions:
+    personality:
+        - Adventurous
+        - Observant
+        - Determined
+        - Compassionate
+    defaultEmotion: Focused
+    facialExpression: Slight smile with an intense gaze
+    bodyLanguage: Relaxed but alert, quick to react
+    speechStyle: Calm and thoughtful, often pausing to consider her words
+distinctFeaturesOrStyles:
+    uniqueFeatures: A small tattoo of a sparrow on her left wrist
+    colorScheme: Natural tones
+    pose: Kneeling with the camera ready to capture a moment
+    movementStyle: Graceful and fluid, accustomed to moving through natural
+        environments stealthily
+environmentalContext:
+    setting: Dense tropical rainforest
+    lighting: Natural light filtering through the canopy
+    weather: Overcast with a slight chance of rain
+    timeOfDay: Late afternoon
+    backgroundElements: Ferns, vines, faint animal sounds
+    mood: Adventurous and serene
+imageStyle:
+    styleDescription: Realistic
+    colorPalette:
+        - Deep greens
+        - Browns
+        - Earth tones
+    lightingEffect: Soft shadows
+    textureLevel: Fine details
+    artisticInfluence: Naturalism

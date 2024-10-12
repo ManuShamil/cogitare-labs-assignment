@@ -1,0 +1,73 @@
+coreTraits:
+    name: Ava Collins
+    age: 34
+    gender: Female
+    species: Human
+    occupation: Wildlife Photographer
+    backstory: Ava grew up in a small town surrounded by forests. Her love for
+        nature and photography began at a young age when her father gifted her a
+        camera. She's traveled to diverse locations capturing the beauty of
+        wildlife and natural landscapes. Her mission is to raise awareness about
+        endangered species through her photographs.
+    motivation: To preserve and share the beauty of nature through photography,
+        advocating for wildlife conservation.
+physicalDescription:
+    bodyType: Athletic
+    skinTone: Olive
+    skinDetails:
+        freckles: Light freckles scattered across her nose
+        scars: A faint scar on her left forearm from a hiking accident
+    hair:
+        color: Chestnut brown
+        texture: Wavy
+        length: Shoulder-length
+        style: Usually tied up in a messy bun
+        volume: Thick
+    eyes:
+        color: Hazel
+        shape: Almond
+        distinctiveFeatures: Slightly upward slant, with long lashes
+        eyeSize: Large
+    faceShape: Heart-shaped
+    posture: Confident and upright
+    clothing:
+        outfit: Cargo pants, hiking boots, and a fitted t-shirt with a weatherproof
+            jacket
+        colorScheme: Earth tones - greens, browns, and khakis
+        material: Durable cotton and waterproof nylon
+        styleDetails: Outfit includes functional pockets and breathable mesh
+        condition: Well-worn, showing signs of frequent use
+    accessories:
+        headgear: A wide-brimmed, tan hat
+        jewelry: A simple leather bracelet
+        other: Camera strap around her shoulder
+        significance: The leather bracelet was a gift from her grandmother; the hat is a
+            practical choice for sun protection.
+personalityAndExpressions:
+    personality:
+        - Adventurous
+        - Passionate
+        - Resilient
+        - Empathetic
+    defaultEmotion: Calm and focused
+    facialExpression: Slight smile with determined eyes
+    bodyLanguage: Open and expressive, often gesturing while speaking
+    speechStyle: Reflective and soft-spoken, with a slight drawl
+distinctFeaturesOrStyles:
+    uniqueFeatures: Slightly upturned nose
+    colorScheme: Earthy tones
+    pose: Holding her camera, looking through the lens
+    movementStyle: Graceful and deliberate, reflecting a blend of ease and control
+environmentalContext:
+    setting: Dense forest backdrop with dappled sunlight
+    lighting: Natural, with beams of sunlight filtering through the canopy
+    weather: Mild and sunny, with a gentle breeze
+    timeOfDay: Late afternoon
+    backgroundElements: Tall trees, underbrush, and a glimpse of wildlife like a distant deer
+    mood: Tranquil and inspiring
+imageStyle:
+    styleDescription: Realistic
+    colorPalette: Shades of green, brown, and gold
+    lightingEffect: Soft shadows with highlights from sunlight
+    textureLevel: Fine details
+    artisticInfluence: Nature-focused realism with emphasis on textures

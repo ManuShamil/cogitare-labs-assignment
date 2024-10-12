@@ -1,0 +1,77 @@
+coreTraits:
+    name: Samuel Carter
+    age: 37
+    gender: Male
+    species: Human
+    occupation: Marine Biologist
+    backstory: Samuel grew up near the coast and always had a fascination with
+        marine life. He pursued a career in marine biology and often
+        participates in deep-sea expeditions. His work focuses on studying
+        underwater ecosystems and the impact of climate change on marine
+        biodiversity.
+    motivation: His primary drive is the preservation of marine life and advocating
+        for environmental conservation.
+physicalDescription:
+    bodyType: Athletic
+    skinTone: Olive
+    skinDetails:
+        freckles: Light freckles scattered across nose and cheeks
+    hair:
+        color: Dark brown
+        texture: Wavy
+        length: Short
+        style: Slightly tousled
+        shine: Moderate shine, indicating healthy hair
+        volume: Thick
+    eyes:
+        color: Hazel
+        shape: Almond-shaped
+        distinctiveFeatures: Slight crow's feet from years spent squinting in the sun
+        eyeSize: Medium
+    faceShape: Oval
+    facialHair: Light scruff, kept groomed
+    posture: Confident, upright with a slight forward lean
+    clothing:
+        outfit: Casual yet functional, consisting of a light blue short-sleeve shirt and
+            cargo shorts
+        colorScheme: Earthy tones
+        material: Cotton and breathable fabrics
+        styleDetails: Subtle ocean-themed embroidery on the shirt's collar
+        condition: Well-worn but maintained
+    accessories:
+        headgear: Beige bucket hat for sun protection
+        jewelry: Woven leather bracelet
+        other: Waterproof digital watch
+        significance: The bracelet is a keepsake from his late grandfather, who shared
+            Samuel's love for the ocean.
+personalityAndExpressions:
+    personality:
+        - Curious
+        - Observant
+        - Compassionate
+        - Determined
+    defaultEmotion: Relaxed and friendly
+    facialExpression: Slight smile with attentive eyes
+    bodyLanguage: Uses expressive hand gestures when explaining his work
+    speechStyle: Conversational with occasional academic terminology
+distinctFeaturesOrStyles:
+    uniqueFeatures: A small tattoo of a wave on his wrist
+    colorScheme: Blues and greens to reflect his connection with the ocean
+    pose: Standing with one hand in his pocket, the other gesturing towards a marine
+        chart
+    movementStyle: Fluid and purposeful, accustomed to working both on land and at sea
+environmentalContext:
+    setting: Coastal research station
+    lighting: Natural sunlight streaming through large windows
+    weather: Breezy, with clear skies
+    timeOfDay: Late morning
+    backgroundElements: Walls lined with books on marine science, a model ship, and
+        tanks filled with marine specimens
+    mood: Inviting and educational
+imageStyle:
+    styleDescription: Realistic
+    colorPalette: Shades of blue, green, and sandy beige
+    lightingEffect: Soft shadows with bright highlights from the natural light
+    textureLevel: Fine details to highlight the textures of marine life and coastal
+        elements
+    artisticInfluence: National Geographic style photography

@@ -1,0 +1,80 @@
+coreTraits:
+    name: Lila Carter
+    age: 34
+    gender: Female
+    species: Human
+    occupation: Chef
+    backstory: Lila grew up in a small coastal town where she learned to cook from
+        her grandmother. She moved to the city to pursue her dreams of opening
+        her own restaurant.
+    motivation: To bring joy and comfort to others through her culinary creations.
+physicalDescription:
+    bodyType: Slim with a slightly athletic build
+    skinTone: Olive
+    skinDetails:
+        freckles: Light cluster across the nose and cheeks
+        scars: Small scar on the right hand from a kitchen accident
+    hair:
+        color: Black
+        texture: Wavy
+        length: Shoulder-length
+        style: Loose with a side part
+        highlightColor: Subtle chestnut highlights
+        volume: Medium, with a natural bounce
+    eyes:
+        color: Hazel
+        shape: Almond-shaped
+        distinctiveFeatures: Thick eyelashes
+        eyeSize: Medium
+    faceShape: Oval
+    facialHair: None
+    posture: Confident yet relaxed, often with hands on hips
+    clothing:
+        outfit: Casual but stylish chef's uniform
+        colorScheme: White and navy blue
+        material: Cotton with a hint of linen
+        styleDetails: Embroidered initials on chest pocket
+        condition: Well-maintained and clean
+    accessories:
+        headgear: White chef's hat
+        jewelry:
+            - Delicate silver hoop earrings
+        other:
+            - A leather-bound recipe notebook
+        significance:
+            - The notebook contains family recipes passed down through
+              generations
+personalityAndExpressions:
+    personality:
+        - Creative
+        - Passionate
+        - Detail-oriented
+        - Warm
+    defaultEmotion: Cheerful
+    facialExpression: Gentle smile with a thoughtful gaze
+    bodyLanguage: Expressive hand movements when talking about food
+    speechStyle: Enthusiastic, with a slight accent from her hometown
+distinctFeaturesOrStyles:
+    uniqueFeatures: A small sunflower tattoo on the left wrist
+    colorScheme: Earthy tones with splashes of bright color
+    pose: Holding a frying pan, ready to cook
+    movementStyle: Graceful and purposeful
+environmentalContext:
+    setting: A bustling modern kitchen with open windows
+    lighting: Bright natural light
+    weather: Sunny with a gentle breeze
+    timeOfDay: Late morning
+    backgroundElements:
+        - Sleek kitchen countertops
+        - Pots hanging overhead
+    mood: Energetic and inspiring
+imageStyle:
+    styleDescription: Realistic
+    colorPalette:
+        - Olive green
+        - Deep navy
+        - Crisp white
+        - Warm chestnut
+    lightingEffect: Soft shadows with highlights on surfaces
+    textureLevel: Fine details
+    artisticInfluence: Contemporary realism with a focus on culinary themes
