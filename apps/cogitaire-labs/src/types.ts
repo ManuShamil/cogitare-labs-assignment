@@ -83,12 +83,20 @@ export interface EnvironmentalContext {
     mood?: string;  // New: describes the mood or atmosphere of the scene
 }
 
+// New interface for image style
+export interface ImageStyle {
+    styleDescription: string;  // e.g., "realistic", "cartoon", "anime"
+    colorPalette?: string[];  // New: predominant colors used in the image
+    lightingEffect?: string;  // New: specific lighting effect, e.g., "high contrast", "soft shadows"
+    textureLevel?: string;  // New: how detailed the textures are, e.g., "fine details", "smooth", "minimalist"
+    artisticInfluence?: string;  // New: any artistic style inspiration, e.g., "Renaissance", "manga"
+}
+
 export interface Character {
     coreTraits: CharacterCoreTraits;
     physicalDescription: PhysicalDescription;
     personalityAndExpressions: PersonalityAndExpressions;
     distinctFeaturesOrStyles: DistinctFeaturesOrStyles;
     environmentalContext?: EnvironmentalContext;
-
-    rawJson: string;  // New: raw JSON string for debugging or reference
+    imageStyle?: ImageStyle;  // New: captures the art style for character illustrations
 }

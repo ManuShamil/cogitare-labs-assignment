@@ -3,6 +3,7 @@ import { CHARACTER_CREATOR_PROMPT, CHARACTER_ILLUSTRATOR_PROMPT } from "./prompt
 import { Character } from "./types";
 import fs from "fs";
 import { v4 } from "uuid";
+import yaml from "yaml";
 
 const OpenAIClient = new OpenAI({
     apiKey: process.env.OPENAI_API_KEY,
@@ -15,8 +16,8 @@ export class CharacterCreator {
 
         if (!fs.existsSync(folderName)) return null;
 
-        const character = fs.readFileSync(`${folderName}/character.json`, "utf-8");
-        return JSON.parse(character) as Character;
+        const character = fs.readFileSync(`${folderName}/character.yaml`, "utf-8");
+        return yaml.parse(character) as Character;
     }
 
     public static writeToFile(character: Character) {
@@ -27,7 +28,7 @@ export class CharacterCreator {
         const folderName = `exports/characters/${characterName}`;
 
         if (!fs.existsSync(folderName)) fs.mkdirSync(folderName, { recursive: true });
-        fs.writeFileSync(`${folderName}/character.json`, JSON.stringify(character, null, 4));
+        fs.writeFileSync(`${folderName}/character.yaml`, yaml.stringify(character, null, 4));
 
         return true;
     }
@@ -58,7 +59,7 @@ export class CharacterCreator {
 
     public static async imageFromCharacter(character: Character) {
 
-        const prompt = `${CHARACTER_ILLUSTRATOR_PROMPT}\n${ character.rawJson ? character.rawJson : JSON.stringify(character) }`;
+        const prompt = `${CHARACTER_ILLUSTRATOR_PROMPT}\n${ yaml.stringify(character) }`;
 
         const imageResponse = await OpenAIClient.images.generate({
             model: "dall-e-3",
@@ -101,8 +102,8 @@ export class CharacterCreator {
             .map(c => {
                 let content = c.message.content;
                 if (!content) return null;
-                //! remove ```json from the start of the response
-                content = content.replace("```json", "");
+                //! remove ```yaml from the start of the response
+                content = content.replace("```yaml", "");
                 //! remove ``` from the end of the response
                 content = content.replace("```", "");
                 return content;
@@ -110,8 +111,7 @@ export class CharacterCreator {
             .filter(c => !c?.includes("FAILED"));
         const characters = responses.filter(c => c != undefined).map(c => {
             return {
-                ...(JSON.parse(c) as Character),
-                rawJson: c
+                ...(yaml.parse(c) as Character),
             }
         });
 
